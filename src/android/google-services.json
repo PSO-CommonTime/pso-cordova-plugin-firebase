@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "465636550505",
+    "firebase_url": "https://chathealthim.firebaseio.com",
+    "project_id": "chathealthim",
+    "storage_bucket": "chathealthim.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465636550505:android:412167cb7262515d",
+        "android_client_info": {
+          "package_name": "com.commontime.infinity.ChatHealthIM"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "465636550505-ju0h27n2u729ubhla6ge8tc07tsictmn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATLjqged0aw4okYwMLPvz1KT0_84_vpKs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
